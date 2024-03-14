@@ -1,1 +1,2 @@
-print("Hello world")
+nazwa_zmiennej = 'Ola'
+print(f'Hello {nazwa_zmiennej}')
